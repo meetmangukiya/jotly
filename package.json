@@ -1,0 +1,19 @@
+{
+  "name": "jotly",
+  "version": "0.0.1",
+  "description": "jotly - to maintain a library of notebooks, which in turn consists of chapters, sections, sub-sections, sub-sub-sections...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetmangukiya/jotly.git"
+  },
+  "author": "Meet Mangukiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meetmangukiya/jotly/issues"
+  },
+  "homepage": "https://github.com/meetmangukiya/jotly#readme"
+}
