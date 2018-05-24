@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "jotly": "./src/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/meetmangukiya/jotly.git"
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/meetmangukiya/jotly/issues"
   },
-  "homepage": "https://github.com/meetmangukiya/jotly#readme"
+  "homepage": "https://github.com/meetmangukiya/jotly#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
 }
